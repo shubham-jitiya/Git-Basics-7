@@ -6,4 +6,3 @@ Initial project source code
 >>>>>>> 5a4b92b (Initial commit)
 
 Commit 1
-Commit 2
